@@ -1,4 +1,4 @@
-# movie
+# textOCR
 
 A Text Recognition app with firebase
 
