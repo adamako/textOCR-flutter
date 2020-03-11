@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "438163999366",
+    "firebase_url": "https://themovie-52d33.firebaseio.com",
+    "project_id": "themovie-52d33",
+    "storage_bucket": "themovie-52d33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438163999366:android:8a717c1214d1e2429ddf07",
+        "android_client_info": {
+          "package_name": "com.kotech.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438163999366-h1178s9fv6l6jgsfgenunnc39hc6ruhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5loJ8eeZNabtPrcBsoochIUqC1KpFZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438163999366-h1178s9fv6l6jgsfgenunnc39hc6ruhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438163999366:android:5a7c2ae3d346cde79ddf07",
+        "android_client_info": {
+          "package_name": "com.kotech.movie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438163999366-h1178s9fv6l6jgsfgenunnc39hc6ruhs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV5loJ8eeZNabtPrcBsoochIUqC1KpFZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438163999366-h1178s9fv6l6jgsfgenunnc39hc6ruhs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
